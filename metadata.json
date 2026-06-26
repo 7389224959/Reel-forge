@@ -1,0 +1,6 @@
+{
+  "name": "ReelForge",
+  "description": "Turn news topics into viral video reel scripts with factual web-search grounding and B-roll suggestions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
